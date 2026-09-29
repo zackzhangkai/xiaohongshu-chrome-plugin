@@ -57,6 +57,21 @@ npm test          # node --test tests/*.test.js
 - 评论只保存「当时页面已加载」的部分，不是完整评论区。
 - 点赞等数字是页面显示值（如「1.2万」），非精确数。
 
+## 交流
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./assets/readme/wechat-qr.jpg" width="240" alt="作者 Zack 的个人微信名片二维码，扫一扫添加好友"><br>
+      <sub>加我微信 · Zack</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./assets/readme/group-qr.jpg" width="240" alt="微信群「AI 学习交流圈」二维码，扫码进群交流"><br>
+      <sub>AI 学习交流圈</sub>
+    </td>
+  </tr>
+</table>
+
 ## English
 
 A Chrome extension (MV3) plus a tiny local Node/Express service that saves Xiaohongshu (rednote) image-and-text posts to your own machine: notes are stored as local JSON with images, viewable on the service homepage, and optionally mirrored to a plain Markdown folder (`note.md` + `images/`) for tools like Obsidian. No cloud, no account, no background collection — capture happens only when you click. UI is in Chinese. MIT licensed.
